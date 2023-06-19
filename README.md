@@ -1,7 +1,7 @@
 ### Hi i'm QA engineer 🧑🏻‍💻
 <!--
 **Kydriash1991/Kydriash1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+assets/standard.gif
 Here are som![standard](assets/standard.gif)
 e ideas to get you started:
 
