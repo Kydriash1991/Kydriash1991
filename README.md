@@ -2,7 +2,7 @@
 <!--
 **Kydriash1991/Kydriash1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are som![standard](https://github.com/Kydriash1991/Kydriash1991/assets/109484772/e7bea104-5ac8-4941-a8b3-581bfa2cbf55)
+Here are som![standard](assets/standard.gif)
 e ideas to get you started:
 
 - 🔭 I’m currently working on ...
