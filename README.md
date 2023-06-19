@@ -19,7 +19,7 @@
 
 ### Follow Me
 
-- [Header](https://t.me/kydriashov)
+- [Telegram](https://t.me/kydriashov)
 
 
 
