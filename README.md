@@ -25,7 +25,9 @@
 - [Telegram](https://t.me/kydriashov)
 
 
-- uses: Kydriash1991/Kydriash1991
+
+
+  uses: Kydriash1991/Kydriash1991
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
