@@ -25,7 +25,7 @@
 - [Telegram](https://t.me/kydriashov)
 
 
-![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Kydriash1991&color=dc143c)
 
 
   
