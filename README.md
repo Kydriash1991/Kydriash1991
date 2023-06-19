@@ -20,5 +20,4 @@
 
 
 
-### Follow Me
-[![Header](https://t.me/kydriashov)
+
