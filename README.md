@@ -1,7 +1,6 @@
 ![Header](https://github.com/Kydriash1991/Kydriash1991/blob/main/assets/standard.gif)
 ### About me 🧑🏻‍💻
-### Hi i'm QA engineer 🧑🏻‍💻
-### I am a beginner QA engineer. I work hard on myself to become a worthy specialist. My goal is to build a successful career.
+ - I am a beginner QA engineer. I work hard on myself to become a worthy specialist. My goal is to build a successful career.:fire:
 
 
 
