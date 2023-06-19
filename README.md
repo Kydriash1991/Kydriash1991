@@ -25,6 +25,7 @@
 - [Telegram](https://t.me/kydriashov)
 
 
+![Profile_views](https://kydriash1991.com/ghpvc/?username=Kydriash1991&color=green&style=for-the-badge)
 
 
   
