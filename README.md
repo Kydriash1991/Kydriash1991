@@ -25,7 +25,7 @@
 - [Telegram](https://t.me/kydriashov)
 
 
-                                                                                    ![](https://komarev.com/ghpvc/?username=Kydriash1991&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Kydriash1991&color=dc143c)
 
 
   
