@@ -1,10 +1,10 @@
 ![Header](https://github.com/Kydriash1991/Kydriash1991/blob/main/assets/standard.gif)
 ### About me 🧑🏻‍💻
-- I am QA engineer. I work hard on myself to become a worthy specialist. My goal is to build a successful career.:fire:
-- I have read over 30 books by Stephen King.
-- I have been jibbing on a snowboard for 18 years.
-- Gathered a large collection of sneakers.
-- I dream of visiting Japan
+- I am QA engineer. I work hard on myself to become a worthy specialist. My goal is to build a successful career :fire:
+- I have read over 30 books by Stephen King :books:
+- I have been jibbing on a snowboard for 18 years 🏂
+- Gathered a large collection of sneakers :sneaker:
+- I dream of visiting Japan 🗾
 
 
 ### Language and Tools
