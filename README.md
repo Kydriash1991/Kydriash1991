@@ -4,7 +4,7 @@
 - I have read over 30 books by Stephen King :books:
 - I have been jibbing on a snowboard for 18 years 🏂
 - Gathered a large collection of sneakers :mans_shoe:
-- I dream of visiting Japan 🗾
+- I dream of visiting Japan  🗾
 
 
 ### Language and Tools
